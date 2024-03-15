@@ -13,7 +13,7 @@
         $correctPassword = "1234";
 
         if ($correctUsername == $username && $correctPassword == $password) {
-            echo "Inloggen gelukt";
+            echo "Inloggen gelukt" . "<img src='img/kist.png' alt='schatkist'>";
         } else {
             echo "Inloggen mislukt";
         }
