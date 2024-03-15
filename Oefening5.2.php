@@ -6,6 +6,7 @@
 </head>
 <body>
     <form>
+        <fieldset>
         <table>
             <tr>
                 <td colspan="2">
@@ -40,6 +41,7 @@
                 </td>
             </tr>
         </table>
+        </fieldset>
     </form>
 </body>
 </html>
