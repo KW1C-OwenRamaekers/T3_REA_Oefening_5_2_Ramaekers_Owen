@@ -5,7 +5,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form>
+    <form method="post" action="Oefening5.2-resultaat.php">
         <fieldset>
         <table>
             <tr>
@@ -22,7 +22,7 @@
                     Username
                 </td>
                 <td>
-                    <input type="text">
+                    <input type="text" name="username">
                 </td>
             </tr>
 
@@ -31,7 +31,7 @@
                     Password
                 </td>
                 <td>
-                    <input type="password">
+                    <input type="password" name="password">
                 </td>
             </tr>
 
