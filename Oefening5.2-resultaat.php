@@ -6,8 +6,6 @@
 </head>
 <body>
     <?php
-        echo "<pre>";
-        var_dump($_POST);
         $username = $_POST["username"];
         $password = $_POST["password"];
 
